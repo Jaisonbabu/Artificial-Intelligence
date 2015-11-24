@@ -1,0 +1,134 @@
+div.graph {
+    min-width: 310px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+div.header {
+  background-color: #2a2a2b;
+  color: #cccccc;
+  width: 100%;
+}
+
+div.sub {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+h1, h2, h3 {
+  font-size: 50px;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+h2 {
+  margin-top: 0px;
+  font-size: 40px;
+  margin-bottom: 0px;
+  padding-bottom: 15px;
+}
+
+p.authors {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+  padding-bottom: 30px;
+}
+
+div.nav {
+  padding-bottom: 90px;
+  margin: 45px auto;
+  font-size: 30px;
+  width: 100%;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: #3686be;
+  width: 50%;
+}
+
+div.left {
+  width: 50%;
+  float: left;
+  margin: 0 auto;
+  text-align: center;
+}
+
+div.right {
+  width: 50%;
+  float: left;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+h3 {
+  font-size: 30px;
+}
+
+html, body {
+  background-color: #3686be;
+  font-family: 'Rosario', sans-serif;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+}
+
+div.stock-search {
+  margin: 40px 0px;
+  background-color: #2a2a2b;
+  color: #cccccc;
+  padding: 60px 0px;
+}
+div.stock {
+  background-color: #2a2a2b;
+  color: #cccccc;
+  font-size: 30px;
+  height: 53px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div.row {
+  margin-bottom: 30px;
+}
+
+h4 {
+  font-size: 30px;
+}
+div.stocks {
+  margin-bottom: 90px;
+}
+span.glyphicon {
+  float: right;
+}
+
+span.glyphicon-remove {
+  color: red;
+}
+
+span.glyphicon-ok {
+  color: green;
+}
+
+.com-md-2 {
+  margin: 0px;
+  padding: 0px;
+}
+
+input.search {
+  font-size: 30px;
+  height: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+  width: 70%;
+}

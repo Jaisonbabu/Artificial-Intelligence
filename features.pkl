@@ -1,0 +1,72 @@
+(lp0
+S'DE Ratio'
+p1
+aS'Trailing P/E'
+p2
+aS'Price/Sales'
+p3
+aS'Price/Book'
+p4
+aS'Profit Margin'
+p5
+aS'Operating Margin'
+p6
+aS'Return on Assets'
+p7
+aS'Return on Equity'
+p8
+aS'Revenue Per Share'
+p9
+aS'Market Cap'
+p10
+aS'Enterprise Value'
+p11
+aS'Forward P/E'
+p12
+aS'PEG Ratio'
+p13
+aS'Enterprise Value/Revenue'
+p14
+aS'Enterprise Value/EBITDA'
+p15
+aS'Revenue'
+p16
+aS'Gross Profit'
+p17
+aS'EBITDA'
+p18
+aS'Net Income Avl to Common '
+p19
+aS'Diluted EPS'
+p20
+aS'Earnings Growth'
+p21
+aS'Revenue Growth'
+p22
+aS'Total Cash'
+p23
+aS'Total Cash Per Share'
+p24
+aS'Total Debt'
+p25
+aS'Current Ratio'
+p26
+aS'Book Value Per Share'
+p27
+aS'Cash Flow'
+p28
+aS'Beta'
+p29
+aS'Held by Insiders'
+p30
+aS'Held by Institutions'
+p31
+aS'Shares Short (as of'
+p32
+aS'Short Ratio'
+p33
+aS'Short % of Float'
+p34
+aS'Shares Short (prior '
+p35
+a.

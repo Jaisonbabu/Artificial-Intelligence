@@ -1,0 +1,136 @@
+(dp0
+S'Forward P/E'
+p1
+g1
+sS'Return on Equity'
+p2
+g2
+sS'Current Ratio'
+p3
+g3
+sS'Total Debt'
+p4
+g4
+sS'Shares Short (prior '
+p5
+g5
+sS'EBITDA'
+p6
+g6
+sS'Status'
+p7
+S'N/A'
+p8
+sS'Net Income Avl to Common '
+p9
+g9
+sS'Beta'
+p10
+g10
+sS'Diluted EPS'
+p11
+g11
+sS'Date'
+p12
+g8
+sS'Earnings Growth'
+p13
+g13
+sS'Enterprise Value/Revenue'
+p14
+g14
+sS'Trailing P/E'
+p15
+g15
+sS'Total Cash'
+p16
+g16
+sS'Price/Book'
+p17
+g17
+sS'Shares Short (as of'
+p18
+g18
+sS'Cash Flow'
+p19
+g19
+sS'SP500'
+p20
+g8
+sS'Unix'
+p21
+g8
+sS'Held by Insiders'
+p22
+g22
+sS'Operating Margin'
+p23
+g23
+sS'Held by Institutions'
+p24
+g24
+sS'stock_p_change'
+p25
+g8
+sS'PEG Ratio'
+p26
+g26
+sS'DE Ratio'
+p27
+S'Total Debt/Equity'
+p28
+sS'Revenue Per Share'
+p29
+g29
+sS'Price'
+p30
+g8
+sS'Short Ratio'
+p31
+g31
+sS'Short % of Float'
+p32
+g32
+sS'Difference'
+p33
+g8
+sS'Ticker'
+p34
+g8
+sS'Profit Margin'
+p35
+g35
+sS'Return on Assets'
+p36
+g36
+sS'Price/Sales'
+p37
+g37
+sS'Gross Profit'
+p38
+g38
+sS'Book Value Per Share'
+p39
+g39
+sS'Enterprise Value'
+p40
+g40
+sS'Total Cash Per Share'
+p41
+g41
+sS'Revenue'
+p42
+g42
+sS'Enterprise Value/EBITDA'
+p43
+g43
+sS'sp500_p_change'
+p44
+g8
+sS'Revenue Growth'
+p45
+g45
+sS'Market Cap'
+p46
+g46
+s.
